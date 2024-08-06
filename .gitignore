@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+
+#Lo siguirnte lo añadimos para github
+broadcast/
+;
